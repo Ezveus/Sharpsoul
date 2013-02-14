@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSLib", "NSLib\NSLib.csproj", "{73B66C6B-D5B5-4125-894C-D017A93CE844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSLibTest", "NSLibTest\NSLibTest.csproj", "{13029A8E-6D17-4522-8435-D8B6A1E7E105}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{73B66C6B-D5B5-4125-894C-D017A93CE844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B66C6B-D5B5-4125-894C-D017A93CE844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B66C6B-D5B5-4125-894C-D017A93CE844}.Release|Any CPU.Build.0 = Release|Any CPU
-		{13029A8E-6D17-4522-8435-D8B6A1E7E105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13029A8E-6D17-4522-8435-D8B6A1E7E105}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13029A8E-6D17-4522-8435-D8B6A1E7E105}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13029A8E-6D17-4522-8435-D8B6A1E7E105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
